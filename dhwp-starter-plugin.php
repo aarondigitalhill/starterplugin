@@ -3,7 +3,7 @@
 Plugin Name: Digital Hill Starter Plugin
 Plugin URI: https://github.com/aarondigitalhill/starterplugin
 Description: A plugin starting point for plugin development and testing
-Version: 1.0.13
+Version: 1.1.2
 Author: Digital Hill Multimedia
 Author URI: http://www.digitalhill.com
 License: Proprietary
