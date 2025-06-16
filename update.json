@@ -1,0 +1,30 @@
+{
+	"name": "Digital Hill Starter Plugin",
+	"version": "1.0.5",
+	"download_url": "http://plugins.digitalhill.com/dhplugins/update.php?download=dhwp-starter-plugin&key=K4wox58cXxC3RggLYUFc",
+
+	"requires": "4.5",
+	"tested": "4.9",
+	"last_updated": "2018-09-26 16:00:00",
+	"upgrade_notice": "Here's why you should upgrade...",
+
+	"author": "Digital Hill",
+	"author_homepage": "https://www.digitalhill.com/",
+
+	"sections": {
+		"description": "(Required) Plugin description. Basic HTML can be used in all sections.",
+		"installation": "(Recommended) Installation instructions.",
+		"changelog": "(Recommended) Changelog. <p>This section will be displayed by default when the user clicks 'View version x.y.z details'.</p>",
+		"custom_section": "This is a custom section labeled 'Custom Section'."
+	},
+
+	"icons": {
+		"1x": "http://plugins.digitalhill.com/dhplugins/dhwp-starter-plugin/assets/images/icon-128x128.png",
+		"2x": "http://plugins.digitalhill.com/dhplugins/dhwp-starter-plugin/assets/images/icon-256x256.png"
+	},
+
+	"banners": {
+		"low": "http://plugins.digitalhill.com/dhplugins/dhwp-starter-plugin/assets/images/banner-772x250.png",
+		"high": "http://plugins.digitalhill.com/dhplugins/dhwp-starter-plugin/assets/images/banner-1544x500.png"
+	}
+}
